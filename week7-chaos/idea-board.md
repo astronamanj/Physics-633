@@ -1,3 +1,8 @@
+## Main topics
+- Numerical erros 
+- Integration methods and stability of solutions
+- Chaotic systems
+- Bifurcation (long term evolution; sudden qualitative or topological changes in the behavior of a dynamical system when a small, smooth change is made to its parameter values)
 
 ## Potential Reference Materials
 - An Introduction to Computational Physics (Tao Pang) [link](https://www-cambridge-org.proxy3.library.mcgill.ca/core/books/an-introduction-to-computational-physics/1B15BEAC3749EFFE195659F4A166D0E2)
