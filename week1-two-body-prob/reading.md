@@ -9,7 +9,7 @@
     - The true anomaly (f) is the actual physical angle that describes the orbiting body's position relative to the periapsis, as seen from the central body (which is at the focus). 
     - Mean anamoly (M) is a non-physical term, i.e. no direct geometric interpretation, defined with units of time. It represents where a fictitious body would be if it were moving in a perfect circular orbit at a constant speed, with the same orbital period as the actual elliptical orbit. It increases linearly with time, which makes it easy to calculate how much time has passed since the body last passed periapsis.
     - The eccentric anomaly is a geometric angle used as a mathematical convenience to relate the true anomaly and the mean anomaly.
-    - In a perfect circular orbit (\(e=0\)), all three anomalies are equal (\(M=E=f\)). 
+    - In a perfect circular orbit (e=0), all three anomalies are equal (M=E=f). 
 5. What is Kepler's equation?
     - Kepler's equation (2.52) defines a relationship between the mean and ecccentric anomalies. 
     - Since the eccentric anomaly (E) uniquely defines orbital radius (r) and true anomaly (f), we can use this relationship to find r and f at any time t over the period.
